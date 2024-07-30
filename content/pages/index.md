@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 101 Joke books
+      text: 101 Joke and Puns
       color: text-dark
       type: TitleBlock
     subtitle: ''
