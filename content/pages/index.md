@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Jokes and puns are a good way to make your brain think and become active
+      and laughing is a great way to express your enjoyment as well as cure some
+      depressions.
     actions:
       - label: Get started
         altText: ''
