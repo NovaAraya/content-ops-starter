@@ -35,7 +35,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-      url: /images/abstract-background.svg
+      url: /images/dad-jokes-tile-5.png
     badge:
       label: This will be bad
       color: text-primary
